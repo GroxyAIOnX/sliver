@@ -1,13 +1,6 @@
-# GitHub Copilot Integration in Chromium
+# Official TSF SliverOS
 
-This directory provides instructions and prompts for integrating GitHub Copilot
-with the chromium codebase.
-
-This directory is currently in a prototyping state and may be removed in the
-future. As we add support for multiple coding IDE/agents, we will likely pull
-common prompts and instructions into a central directory with stubs for bespoke
-IDE/agent integration. Please check with your organization before using GitHub
-Copilot.
+We Are Currently Working to create an Real OS named Sliver
 
 ## Where is copilot-instructions.md?
 [`copilot-intructions.md`](../copilot-instructions.md) is typically a single
