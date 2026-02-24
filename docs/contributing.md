@@ -1,6 +1,6 @@
-# Contributing to Chromium
+# Contributing to Silver
 
-This page assumes a working Chromium [checkout and build][checkout-and-build].
+This page assumes a working Silver [checkout and build][checkout-and-build].
 Note that a full Chromium checkout includes external repositories with their
 own workflows for contributing, such as [v8][v8-dev-guide] and
 [Skia][skia-dev-guide]. Similarly, ChromiumOS, which includes Chromium as a
