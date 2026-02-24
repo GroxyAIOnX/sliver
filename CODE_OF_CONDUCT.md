@@ -1,17 +1,11 @@
-# Chromium Code of Conduct
+# TSF Code of Conduct
 
-Google and the Chromium team are committed to preserving and fostering a
-diverse, welcoming community. Below is our community code of conduct, which
-applies to our repos and organizations, issue trackers, mailing lists,
-blog content, and any other Chromium-supported communication group, as
-well as any private communication initiated in the context of these
-spaces. This code of conduct must be followed by everyone contributing to
-the Chromium project, regardless of affiliation or position.
+TSF And The SliverOS Developer Created This They Must Be Treated With Respect Any Non-Respectful comments depicted will not be tolerated
 
 Simply put, community discussions should be
 
  * respectful and kind;
- * about Chromium;
+ * about TSF/SliverOS;
  * about features and code, not the individuals involved.
 
 ## Be respectful and constructive.
